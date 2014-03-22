@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2013 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="wallpapers" translatable="false">
+        <item>3d_flowers</item>
+        <item>3d_hexagons</item>
+        <item>cool_3d_paint</item>
+        <item>dew</item>
+        <item>mosaic_hulk</item>
+        <item>mosaic_spider_man</item>
+        <item>nox_neon</item>
+        <item>squren_series</item>
+        <item>squren_series1</item>
+        <item>squren_series3</item>
+        <item>squren_series4</item>
+        <item>squren_series8</item>
+        <item>squren_series10</item>
+        <item>superman</item>
+        <item>vectr_s4</item>
+        <item>wallpaper_6</item>
+        <item>wild_pattern</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>3d Flowers</item>
+        <item>3d Hexagons</item>
+        <item>Cool 3d Paint</item>
+        <item>Dew</item>
+        <item>Mosaic Hulk</item>
+        <item>Mosaic Spider Man</item>
+        <item>Nox Neon</item>
+        <item>Squren Series</item>
+        <item>Squren Series</item>
+        <item>Squren Series</item>
+        <item>Squren Series</item>
+        <item>Squren Series</item>
+        <item>Squren Series</item>
+        <item>Superman</item>
+        <item>Vectr</item>
+        <item>Squren Wallpaper</item>
+        <item>Wild Pattern</item>
+    </string-array>
+</resources>
