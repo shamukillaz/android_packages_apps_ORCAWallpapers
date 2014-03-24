@@ -16,8 +16,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="wallpapers" translatable="false">
-        <item>3d_flowers</item>
-        <item>3d_hexagons</item>
+        <item>flowers</item>
+        <item>hexagons</item>
         <item>cool_3d_paint</item>
         <item>dew</item>
         <item>mosaic_hulk</item>
@@ -36,8 +36,8 @@
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>3d Flowers</item>
-        <item>3d Hexagons</item>
+        <item>Flowers</item>
+        <item>Hexagons</item>    
         <item>Cool 3d Paint</item>
         <item>Dew</item>
         <item>Mosaic Hulk</item>
