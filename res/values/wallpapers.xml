@@ -26,13 +26,14 @@
         <item>squren_series</item>
         <item>squren_series1</item>
         <item>squren_series3</item>
-        <item>squren_series4</item>
+        <item>2</item>
         <item>squren_series8</item>
         <item>squren_series10</item>
-        <item>superman</item>
-        <item>vectr_s4</item>
+        <item>1</item>
+        <item>4</item>
         <item>wallpaper_6</item>
         <item>wild_pattern</item>
+        <item>3</item>        
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -46,12 +47,13 @@
         <item>Squren Series</item>
         <item>Squren Series</item>
         <item>Squren Series</item>
+        <item>Hex Gray</item>
         <item>Squren Series</item>
         <item>Squren Series</item>
-        <item>Squren Series</item>
-        <item>Superman</item>
-        <item>Vectr</item>
+        <item>Hex Lemon</item>
+        <item>Hex Rainbow</item>
         <item>Squren Wallpaper</item>
         <item>Wild Pattern</item>
+        <item>Hex Grean</item>        
     </string-array>
 </resources>
